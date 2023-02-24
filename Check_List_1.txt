@@ -1,0 +1,6 @@
+Check List
+1. Correct work of dropdown - Click dropdown Dropdown - List is opened - Passed
+2. Hover effect for the dropdown buttons - Hover effect for the dropdown buttons - Buttons background becomes darker - Passed
+3. Hover effect for dropdown - Place the cursor over dropdown - Cursor shape is changed - Passed
+4. Correct work of dropdown buttons - Choose any button in dropdown - Characteristics are changed (The area [Profit/Loss],  graph and measures on the graph) - Passed
+5. Correct work of dropdown button [Gold] - Click on Gold in dropdown - The slider [Leverage] displays 1:1; 2:1; 5:1 - Passed
